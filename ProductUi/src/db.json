@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": null,
+      "name": "Mobile",
+      "price": 25000,
+      "quantity": 2
+    },
+    {
+      "id": null,
+      "name": "Bike",
+      "price": 25000,
+      "quantity": 2
+    },
+    {
+      "id": null,
+      "name": "Bikes",
+      "price": 2500,
+      "quantity": 2
+    },
+    {
+      "id": null,
+      "name": "test",
+      "price": 15264,
+      "quantity": 5
+    }
+  ]
+}
