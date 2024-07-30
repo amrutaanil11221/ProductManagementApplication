@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 @DemoProject_HostAddress = http://localhost:5098
 
 GET {{DemoProject_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+=======
+@DemoProject_HostAddress = http://localhost:5098
+
+GET {{DemoProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+>>>>>>> 0a2cd04 (add files)

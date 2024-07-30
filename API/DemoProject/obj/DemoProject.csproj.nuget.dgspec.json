@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Amruta\\OneDrive\\Desktop\\ProductManagementApplication\\API\\DemoProject\\DemoProject.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Amruta\\OneDrive\\Desktop\\ProductManagementApplication\\API\\DemoProject\\DemoProject.csproj",
         "packagesPath": "C:\\Users\\Amruta\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Amruta\\OneDrive\\Desktop\\ProductManagementApplication\\API\\DemoProject\\obj\\",
+=======
+    "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\DemoProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\DemoProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\DemoProject.csproj",
+        "projectName": "DemoProject",
+        "projectPath": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\DemoProject.csproj",
+        "packagesPath": "C:\\Users\\Amruta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\obj\\",
+>>>>>>> 0a2cd04 (add files)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,6 +87,13 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+<<<<<<< HEAD
+=======
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+>>>>>>> 0a2cd04 (add files)
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
